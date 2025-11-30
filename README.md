@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack And Unity<br>👯 I’m looking to collaborate on Game projects In Unity And MERN Stack Projects<br>🤝 I’m Improving my Skills as a programmer Every day<br>🌱 I’m currently learning C++ And Go as a side hobby <br>💬 Ask me about Unity ,C# and Web Dev
+🔭 I’m currently working on MERN Stack And Unity<br>👯 I’m looking to collaborate on Game projects In Unity And MERN Stack Projects<br>🤝 I’m Improving my Skills as a programmer Every day <br>💬 Ask me about Unity ,C# and Web Dev
 
 
 ## 🌐 Socials:
